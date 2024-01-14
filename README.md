@@ -10,8 +10,8 @@ I'm currently a Computer Science and Physics student at the University of Britis
 #### Here are some cool projects that I'm working on:
 - 🌇 [Helios](https://github.com/UBC-Rocket/Helios) - UBCRocket's Next-Generation Ground Support & Telemetry System.
 - ⚒ [ProjectObsidian](https://github.com/EdwardJXLi/ProjectObsidian) - A Powerful and Modern Minecraft Classic Server Software, in 100% Python.
-- ⚛ [Wormhole](https://github.com/EdwardJXLi/Wormhole) - A Simple and Hackable Realtime Video Streaming Engine.
-- 🏰 [DungeonKeeper](https://github.com/EdwardJXLi/DungeonKeeper) - Top-down Sprite and Text-based Roguelike Dungeon Crawler.
+- ⚛ [Wormhole](https://github.com/EdwardJXLi/Wormhole) - A Simple and Hackable Realtime Video Streaming Engine. ([Live Demo](https://demo.wormhole.hydranet.dev/))
+- 🏰 [DungeonKeeper](https://github.com/EdwardJXLi/DungeonKeeper) - Top-down Sprite and Text-based Roguelike Dungeon Crawler. ([Play Online](https://dungeonkeeper.hydranet.dev/))
 
 <details>
 <summary><b>See More Projects & Organizations</b></summary>
@@ -41,7 +41,7 @@ I'm currently a Computer Science and Physics student at the University of Britis
 #### Previous organizations I was involved with:
 - 🌻 Committee President for [BellHS's Relay For Life](https://www.relayforlife.ca/).
 - 💻 Club Head and Project Lead for [BellHS CS Club](https://www.instagram.com/bell.cs.club/).
-- 🤖 Executive Head of [Bruins Robotics](https://www.instagram.com/bruinsrobotics), VEX team 40999A.
+- 🤖 Executive Head of [Bruins Robotics](https://www.instagram.com/bruinsrobotics), VEX team [40999A](https://vexdb.io/teams/view/40999A).
 - 🏫 Grade 12 Representative for Student Council.
 
 </details>

@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm Edward Li!
+## 👋 Hi there, I'm [Edward Li](https://www.edward-li.com/)!
 
-I'm currently a Computer Science and Physics student at the University of British Columbia! I love building projects that are interesting, unique, or anything in between!
+I'm currently a **Computer Science and Physics** student at the 🏔**University of British Columbia**! I love building and working on projects that are interesting, unique, or anything in between! 
 
 #### Here's some organizations I'm involved with:
 - 🌌 Logistics Coordinator for [nwHacks](https://nwhacks.io/), Western Canada's Largest Hackathon.
@@ -45,3 +45,5 @@ I'm currently a Computer Science and Physics student at the University of Britis
 - 🏫 Grade 12 Representative for Student Council.
 
 </details>
+
+Feel free to reach out and get in contact anytime at `edli<at>student<dot>ubc<dot>ca`, or find me online on [Instagram](https://www.instagram.com/edwardjxli/) or [Linkedin](https://www.linkedin.com/in/edwardjxli/)!

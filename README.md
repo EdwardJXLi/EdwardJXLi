@@ -28,15 +28,20 @@ I'm currently a **Computer Science and Physics** student at the 🏔**University
 #### 2021
 - 😷 [MaskPass](https://devpost.com/software/mlh-birthday-ads) - An AI-powered door system to ensure everyone entering has their masks properly fitted.
 - 🦠 [Distributed Covid Simulation](https://devpost.com/software/distributed-covid-simulation) - Massively Parallel Distributed Monte Carlo Pandemic Modeling using DCP.
-- 🤝 [Reconnect](https://github.com/Reconnect-CUHacking2021/) - Store management software for a post vaccine world.
 - 👩‍🏫 [QuikSlide](https://github.com/EdwardJXLi/QuikSlide/) - Artificial Intelligence Powered Slideshow Creation Utility.
 - 🥕 [Freshify](https://devpost.com/software/freshify) - A grocery platform that fuses both the local community and sustainable consumption.
 
-#### 2020 and beyond...
+#### 2020
+- 🤝 [Reconnect](https://github.com/Reconnect-CUHacking2021/) - Store management software for a post vaccine world.
+- 🌳 [TModLoader Docker](https://github.com/EdwardJXLi/tmodloader-docker) - Docker Image to run a complete tModLoader 1.4 server on x86_64 and arm64
 - 👦 [CrowdEye](https://github.com/CrowdEye) - Industry-leading Computer Vision software to help companies, retailers, and stores enforce COVID-19 regulations.
+- 🌎 [Global Health Model](https://devpost.com/software/global-health-model) - Visualizing WHO statistical models to help spread awareness on the global heath situation.
+
+#### 2019 and beyond...
 - 🍕 [MemeGenBot](https://discord.com/oauth2/authorize?client_id=381852776252178432&scope=bot&permissions=1178065985) - A discord bot that generates memes on the fly!
 - 🎈 [VexV5Raytracer](https://github.com/EdwardJXLi/VexV5Raytracer) - Simple 3D Raytracer Ported To The Vex V5 Robot Brain.
-- 🌎 [Global Health Model](https://devpost.com/software/global-health-model) - Visualizing WHO statistical models to help spread awareness on the global heath situation.
+- 📈 [Manim Presentation](https://github.com/EdwardJXLi/manim-presentation) - Hacky Project To Allow Presentation Of 3b1b/manim Scenes.
+- 📊 [Graph Algorithms](https://github.com/EdwardJXLi/Graph-Algorithms) - Series of graph algorithms I wrote for Caleton's ALGO2 Class.
 
 #### Previous organizations I was involved with:
 - 🌻 Committee President for [BellHS's Relay For Life](https://www.relayforlife.ca/).

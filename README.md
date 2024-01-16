@@ -51,4 +51,4 @@ I'm currently a **Computer Science and Physics** student at the 🏔**University
 
 </details>
 
-Feel free to reach out and get in contact anytime at `edli<at>student<dot>ubc<dot>ca`, or find me online on [Instagram](https://www.instagram.com/edwardjxli/) or [Linkedin](https://www.linkedin.com/in/edwardjxli/)!
+Feel free to reach out and get in contact anytime at `edli<at>student<dot>ubc<dot>ca`, or find me online on [Instagram](https://www.instagram.com/edwardjxli/) or [Linkedin](https://www.linkedin.com/in/edwardjxli/)! You can also find me online as `radioactivehydra` or `rhydrax`. 🐲

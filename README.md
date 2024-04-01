@@ -1,11 +1,13 @@
 ## 👋 Hi there, I'm [Edward Li](https://www.edward-li.com/)!
 
-I'm currently a **Computer Science and Physics** student at the 🏔**University of British Columbia**! I love building and working on projects that are interesting, unique, or anything in between! 
+I'm currently working at **[👾Codegen](https://codegen.com/) building level-5 AI coding automation.** Previously @ [HP](https://www.hp.com/) & [Nokia](https://www.nokia.com/).  
+
+I'm also currently a **Computer Science and Physics** student at the 🏔**University of British Columbia**! I love building and working on projects that are interesting, unique, or anything in between! 
 
 #### Here's some organizations I'm involved with:
 - 🌌 Logistics Coordinator for [nwHacks](https://nwhacks.io/), Western Canada's Largest Hackathon.
 - 🚀 Software & Firmware Lead for [UBCRocket](https://www.ubcrocket.com/).
-- 👨‍💻 Competative CTF Player for [MapleBacon](https://maplebacon.org/).
+- 👨‍💻 Competitive CTF Player for [MapleBacon](https://maplebacon.org/).
 
 #### Here are some cool projects that I'm working on:
 - 🌇 [Helios](https://github.com/UBC-Rocket/Helios) - UBCRocket's Next-Generation Ground Support & Telemetry System.

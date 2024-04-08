@@ -12,6 +12,8 @@ I'm also currently a **Computer Science and Physics** student at the 🏔**Unive
 #### Here are some cool projects that I'm working on:
 - 🌇 [Helios](https://github.com/UBC-Rocket/Helios) - UBCRocket's Next-Generation Ground Support & Telemetry System.
 - ⚒ [ProjectObsidian](https://github.com/EdwardJXLi/ProjectObsidian) - A Powerful and Modern Minecraft Classic Server Software, in 100% Python.
+- 🧭 [ProFound](https://devpost.com/software/profound) - The World's First AI Cofounder, helping founders build MVPs as fast as possible. ([Live Demo](https://profound.hydranet.dev/))
+- 👨‍💻 [TinyGen](https://github.com/EdwardJXLi/TinyGen) - Open source AI Powered Ticket-To-PR resolution. Powered by GPT4 🧠!
 - ⚛ [Wormhole](https://github.com/EdwardJXLi/Wormhole) - A Simple and Hackable Realtime Video Streaming Engine. ([Live Demo](https://demo.wormhole.hydranet.dev/))
 - 🏰 [DungeonKeeper](https://github.com/EdwardJXLi/DungeonKeeper) - Top-down Sprite and Text-based Roguelike Dungeon Crawler. ([Play Online](https://dungeonkeeper.hydranet.dev/))
 

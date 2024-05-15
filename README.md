@@ -23,6 +23,7 @@ I'm also currently a **Computer Science and Physics** student at the 🏔**Unive
 #### 2023
 - 📡 [UBCRocket Groundstation](https://github.com/UBC-Rocket/UBCRocketGroundStation) - Real-time Ground Support Software. (Soon to be replaced by [Helios](https://github.com/UBC-Rocket/Helios))
 - 🔥 [FLARE](https://github.com/UBC-Rocket/FLARE) - Firmware for Rockets Going into Space.
+- 🐕‍🦺 [HawkEye](https://devpost.com/software/hawkeye-3kp0tc) - Real-time multimodal conversation and interaction agent for the Boston Dynamics’ Spot robot.
 
 #### 2022
 - ♾ [InfiniHacks](https://infinihacks.devpost.com/) - A Non-Profit Organization with a Mission of Delivering STEM Education Through Real-World Projects.
@@ -55,4 +56,4 @@ I'm also currently a **Computer Science and Physics** student at the 🏔**Unive
 
 </details>
 
-Feel free to reach out and get in contact anytime at `edli<at>student<dot>ubc<dot>ca`, or find me online on [Instagram](https://www.instagram.com/edwardjxli/) or [Linkedin](https://www.linkedin.com/in/edwardjxli/)! You can also find me online as `RadioactiveHydra` or `RHydraX` 🐲.
+Feel free to reach out and get in contact anytime at `edli<at>student<dot>ubc<dot>ca`, or find me online on [Instagram](https://www.instagram.com/edwardjxli/), [Linkedin](https://www.linkedin.com/in/edwardjxli/), or [X/Twitter](https://twitter.com/edwardjxli/)! You can also find me online as `RadioactiveHydra` or `RHydraX` 🐲.

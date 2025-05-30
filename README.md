@@ -1,33 +1,41 @@
 ## 👋 Hi there, I'm [Edward Li](https://www.edward-li.com/)!
 
-I'm currently working at **[👾Codegen](https://codegen.com/) building level-5 AI coding automation.** Previously @ [HP](https://www.hp.com/) & [Nokia](https://www.nokia.com/).  
+I'm a **Computer Science and Physics** student at the 🏔**University of British Columbia**, currently interning at [**Google/GCP☁️**](https://cloud.google.com/) as a Software Engineer! I love building and working on projects that are interesting, unique, or anything in between! 
 
-I'm also currently a **Computer Science and Physics** student at the 🏔**University of British Columbia**! I love building and working on projects that are interesting, unique, or anything in between! 
+Previously, I worked at [Codegen](https://www.codegen.com/) building software agents and language servers, at [HP](https://www.hp.com/) on high-performant remote work software, and at [Nokia](https://www.nokia.com/) creating distributed testing frameworks for fiber optic systems.
 
 #### Here's some organizations I'm involved with:
-- 🌌 Logistics Coordinator for [nwHacks](https://nwhacks.io/), Western Canada's Largest Hackathon.
 - 🚀 Software & Firmware Lead for [UBCRocket](https://www.ubcrocket.com/).
 - 👨‍💻 Competitive CTF Player for [MapleBacon](https://maplebacon.org/).
+- ☕ Event Host @ [Atelier UBC](https://www.atelier.ac/)
+- 🌌 (previously) Logistics Coordinator for [nwHacks](https://nwhacks.io/), Western Canada's Largest Hackathon.
 
 #### Here are some cool projects that I'm working on:
+- ✍️ [blog.edward-li.com](https://blog.edward-li.com/) - Personal blog on everything from tech to art to aerospace!
+- 🌲 [graph-sitter](https://github.com/codegen-sh/graph-sitter) - Scriptable interface to a powerful, multi-lingual language server 
 - 🌇 [Helios](https://github.com/UBC-Rocket/Helios) - UBCRocket's Next-Generation Ground Support & Telemetry System.
+- 🔥 [FLARE](https://github.com/UBC-Rocket/FLARE) - Firmware for Rockets Going into Space.
 - ⚒ [ProjectObsidian](https://github.com/EdwardJXLi/ProjectObsidian) - A Powerful and Modern Minecraft Classic Server Software, in 100% Python.
-- 🧭 [ProFound](https://devpost.com/software/profound) - The World's First AI Cofounder, helping founders build MVPs as fast as possible. ([Live Demo](https://profound.hydranet.dev/))
-- 👨‍💻 [TinyGen](https://github.com/EdwardJXLi/TinyGen) - Open source AI Powered Ticket-To-PR resolution. Powered by GPT4 🧠! ([Live Demo](https://tinygen.hydranet.dev/))
-- ⚛ [Wormhole](https://github.com/EdwardJXLi/Wormhole) - A Simple and Hackable Realtime Video Streaming Engine. ([Live Demo](https://demo.wormhole.hydranet.dev/))
-- 🏰 [DungeonKeeper](https://github.com/EdwardJXLi/DungeonKeeper) - Top-down Sprite and Text-based Roguelike Dungeon Crawler. ([Play Online](https://dungeonkeeper.hydranet.dev/))
 
 <details>
 <summary><b>See More Projects & Organizations</b></summary>
 
+#### 2025
+- 🐲 [Hydra for Hugo](https://github.com/EdwardJXLi/hugo-theme-hydra) - Highly modified and customized version of the Hugo theme [cactus](https://github.com/monkeyWzr/hugo-theme-cactus) by [monkeyWzr](https://github.com/monkeyWzr).
+
+#### 2024
+- 🧭 [ProFound](https://devpost.com/software/profound) - The World's First AI Cofounder, helping founders build MVPs as fast as possible. ([Live Demo](https://profound.hydranet.dev/))
+- 👨‍💻 [TinyGen](https://github.com/EdwardJXLi/TinyGen) - Open source AI Powered Ticket-To-PR resolution. Powered by GPT4 🧠! ([Live Demo](https://tinygen.hydranet.dev/))
+
 #### 2023
 - 📡 [UBCRocket Groundstation](https://github.com/UBC-Rocket/UBCRocketGroundStation) - Real-time Ground Support Software. (Soon to be replaced by [Helios](https://github.com/UBC-Rocket/Helios))
-- 🔥 [FLARE](https://github.com/UBC-Rocket/FLARE) - Firmware for Rockets Going into Space.
 - 🐕‍🦺 [HawkEye](https://devpost.com/software/hawkeye-3kp0tc) - Real-time multimodal conversation and interaction agent for the Boston Dynamics’ Spot robot.
+- 🏰 [DungeonKeeper](https://github.com/EdwardJXLi/DungeonKeeper) - Top-down Sprite and Text-based Roguelike Dungeon Crawler. ([Play Online](https://dungeonkeeper.hydranet.dev/))
 
 #### 2022
 - ♾ [InfiniHacks](https://infinihacks.devpost.com/) - A Non-Profit Organization with a Mission of Delivering STEM Education Through Real-World Projects.
 - 🐝 [HiveHQ](https://devpost.com/software/hive-hq) - Live Foot Traffic Analysis to help Stores Optimize Layout, Measure Engagement, and Enforce COVID-19 Social Distancing.
+- ⚛ [Wormhole](https://github.com/EdwardJXLi/Wormhole) - A Simple and Hackable Realtime Video Streaming Engine. ([Live Demo](https://demo.wormhole.hydranet.dev/))
 - 🎨 [DrawBot](https://devpost.com/software/drawbot-ulof5z) - A Robot to Turn Your Ideas Into Original Art on Paper!
 
 #### 2021
@@ -47,6 +55,7 @@ I'm also currently a **Computer Science and Physics** student at the 🏔**Unive
 - 🎈 [VexV5Raytracer](https://github.com/EdwardJXLi/VexV5Raytracer) - Simple 3D Raytracer Ported to the Vex V5 Robot Brain.
 - 📈 [Manim Presentation](https://github.com/EdwardJXLi/manim-presentation) - Hacky Project to Allow Presentation of 3b1b/MANIM Scenes.
 - 📊 [Graph Algorithms](https://github.com/EdwardJXLi/Graph-Algorithms) - Series of Graph Algorithms I Wrote for Caleton's ALGO2 Class.
+- 🟦 [Kahoot Hacks](https://github.com/unixpickle/kahoot-hack) - Reverse engineering kahoot.it 
 
 #### Previous organizations I was involved with:
 - 🌻 Committee President for [BellHS's Relay For Life](https://www.relayforlife.ca/).

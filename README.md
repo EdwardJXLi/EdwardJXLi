@@ -17,4 +17,6 @@ Previously, I worked at [Codegen](https://www.codegen.com/) building software ag
 - 🔥 [FLARE](https://github.com/UBC-Rocket/FLARE) - Firmware for Rockets Going into Space.
 - ⚒ [ProjectObsidian](https://github.com/EdwardJXLi/ProjectObsidian) - A Powerful and Modern Minecraft Classic Server Software, in 100% Python.
 
-Feel free to reach out and get in contact anytime at `edli<at>student<dot>ubc<dot>ca`, or find me online on [Instagram](https://www.instagram.com/edwardjxli/), [Linkedin](https://www.linkedin.com/in/edwardjxli/), or [X/Twitter](https://twitter.com/edwardjxli/)! You can also find me online as `RadioactiveHydra` or `RHydraX` 🐲.
+Feel free to reach out and get in contact anytime at `hi@edward-li.com`, or find me online on [Linkedin](https://www.linkedin.com/in/edwardjxli/), [Instagram](https://www.instagram.com/edwardjxli/), [Bsky](https://bsky.app/profile/edward-li.com), or [X/Twitter](https://twitter.com/edwardjxli/)! 
+
+You can also find me online as `edwardjxli`, `edli`, `RadioactiveHydra`, `RHydraX`, or just `hydra` 🐲.

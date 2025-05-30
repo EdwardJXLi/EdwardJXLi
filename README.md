@@ -7,14 +7,15 @@ Previously, I worked at [Codegen](https://www.codegen.com/) building software ag
 #### Here's some organizations I'm involved with:
 - 🚀 Software & Firmware Lead for [UBCRocket](https://www.ubcrocket.com/).
 - 👨‍💻 Competitive CTF Player for [MapleBacon](https://maplebacon.org/).
-- ☕ Event Host @ [Atelier UBC](https://www.atelier.ac/)
+- ☕ Event Host @ [Atelier UBC](https://www.atelier.ac/).
 - 🌌 (previously) Logistics Coordinator for [nwHacks](https://nwhacks.io/), Western Canada's Largest Hackathon.
 
 #### Here are some cool projects that I'm working on:
-- ✍️ [blog.edward-li.com](https://blog.edward-li.com/) - Personal blog on everything from tech to art to aerospace!
-- 🌲 [graph-sitter](https://github.com/codegen-sh/graph-sitter) - Scriptable interface to a powerful, multi-lingual language server 
-- 🌇 [Helios](https://github.com/UBC-Rocket/Helios) - UBCRocket's Next-Generation Ground Support & Telemetry System.
-- 🔥 [FLARE](https://github.com/UBC-Rocket/FLARE) - Firmware for Rockets Going into Space.
+- ✍️ [blog.edward-li.com](https://blog.edward-li.com/) - Personal blog on everything from tech to art to anything in between!
+- 🌲 [Graph-Sitter](https://github.com/codegen-sh/graph-sitter) - Scriptable interface to a powerful, multi-lingual language server.
+- 🔥 [FLARE](https://github.com/UBC-Rocket/FLARE) - Firmware for rockets going into space.
+- 📡 [UBCRocket Groundstation](https://github.com/UBC-Rocket/UBCRocketGroundStation) - Real-time ground support software. (Soon to be replaced by [Helios](https://github.com/UBC-Rocket/Helios))
+- 🌇 [Helios](https://github.com/UBC-Rocket/Helios) - UBCRocket's next-generation ground support & telemetry system.
 - ⚒ [ProjectObsidian](https://github.com/EdwardJXLi/ProjectObsidian) - A Powerful and Modern Minecraft Classic Server Software, in 100% Python.
 
 Feel free to reach out and get in contact anytime at `hi@edward-li.com`, or find me online on [Linkedin](https://www.linkedin.com/in/edwardjxli/), [Instagram](https://www.instagram.com/edwardjxli/), [Bsky](https://bsky.app/profile/edward-li.com), or [X/Twitter](https://twitter.com/edwardjxli/)! 

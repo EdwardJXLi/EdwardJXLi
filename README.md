@@ -21,3 +21,5 @@ Previously, I worked at [Codegen](https://www.codegen.com/) building software ag
 Feel free to reach out and get in contact anytime at `hi@edward-li.com`, or find me online on [Linkedin](https://www.linkedin.com/in/edwardjxli/), [Instagram](https://www.instagram.com/edwardjxli/), [Bsky](https://bsky.app/profile/edward-li.com), or [X/Twitter](https://twitter.com/edwardjxli/)! 
 
 You can also find me online as `edwardjxli`, `edli`, `RadioactiveHydra`, `RHydraX`, or just `hydra` 🐲.
+
+<sub>Useful Links: [Dotfiles](https://github.com/EdwardJXLi/dotfiles) | [Authorized Keys](https://github.com/EdwardJXLi/authorized_keys) | [Home-Manager Config](https://github.com/EdwardJXLi/home-manager)</sub>

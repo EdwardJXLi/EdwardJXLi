@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm [Edward Li](https://www.edward-li.com/)!
 
-I'm a **Computer Science and Physics** student at the 🏔**University of British Columbia**, currently interning at [**Google/GCP☁️**](https://cloud.google.com/) as a Software Engineer! I love building and working on projects that are interesting, unique, or anything in between! 
+I'm a **Computer Science and Physics** student at the 🏔**University of British Columbia**! I love building and working on projects that are interesting, unique, or anything in between! 
 
-Previously, I worked at [Codegen](https://www.codegen.com/) building software agents and language servers, at [HP](https://www.hp.com/) on high-performant remote work software, and at [Nokia](https://www.nokia.com/) creating distributed testing frameworks for fiber optic systems.
+Previously, I worked at [Google/GCP](https://cloud.google.com/) working on OpenTelemetry builds across all GCP machines, at [Codegen](https://www.codegen.com/) building software agents and language servers, at [HP](https://www.hp.com/) on high-performant remote work software, and at [Nokia](https://www.nokia.com/) creating distributed testing frameworks for fiber optic systems.
 
 #### Here's some organizations I'm involved with:
 - 🚀 Software & Firmware Lead for [UBCRocket](https://www.ubcrocket.com/).
@@ -22,4 +22,4 @@ Feel free to reach out and get in contact anytime at `hi@edward-li.com`, or find
 
 You can also find me online as `edwardjxli`, `edli`, `RadioactiveHydra`, `RHydraX`, or just `hydra` 🐲.
 
-<sub>Useful Links: [Dotfiles](https://github.com/EdwardJXLi/dotfiles) | [Authorized Keys](https://github.com/EdwardJXLi/authorized_keys) | [Home-Manager Config](https://github.com/EdwardJXLi/home-manager)</sub>
+<sub>Useful Links: [Dotfiles](https://github.com/EdwardJXLi/dotfiles) | [Authorized Keys](https://github.com/EdwardJXLi/authorized_keys) | [Home-Manager Config](https://github.com/EdwardJXLi/home-manager) | [Hyprland Config](https://github.com/EdwardJXLi/hypr-config) | [Kitty Config](https://github.com/EdwardJXLi/kitty-config)</sub>
